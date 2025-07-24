@@ -9,6 +9,6 @@
 
 | <div align="center"> Retarget </div> | <div align="center">  Sim2Sim </div> |  <div align="center"> Physical </div> |
 |--- | --- | --- |
-| [<img src="gif/retarget.gif" height="280" style="width: auto; height: auto;">]() | [<img src="gif/sim.gif" height="280" style="width: auto; height: auto;">]() | [<img src="gif/real.gif" height="180" style="width: auto; height: auto;">]() |
+| [<img src="gif/retarget.gif" height="280" style="width: auto; height: auto;">]() | [<img src="gif/sim.gif" height="280" style="width: auto; height: auto;">]() | [<img src="gif/real.gif" height="280" style="width: auto; height: auto;">]() |
 
 </div>
