@@ -14,6 +14,8 @@
 </div>
 
 #### ⚙️ File Description
+*Data saved in SMPL format, with the file in NPZ format, can be used with the PHC project.
 - `--data`: The retargeted data for the "YunMu" E-model robot is as shown in the example.
 - `--robots`: The URDF file containing the YunMu E-model robot.
 - `--ym_datasets_version1`: containing motion capture data.
+- `--visualize_npz.py`: npz data visualization.
